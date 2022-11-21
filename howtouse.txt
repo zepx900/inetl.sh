@@ -1,0 +1,2 @@
+download the virus.bat file and send it to your victim and when your victim run the file boom the virus will do the thing
+before using the tool please read the readme.txt file
